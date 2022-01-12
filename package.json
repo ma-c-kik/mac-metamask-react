@@ -1,5 +1,5 @@
 {
-  "name": "metamask-react",
+  "name": "mac-metamask-react",
   "version": "0.0.1-semantic-release",
   "description": "A simple Context provider and consumer hook in order to provide a simple API for interacting with MetaMask in the browser",
   "keywords": [
@@ -9,14 +9,14 @@
     "web3"
   ],
   "license": "MIT",
-  "author": "Loïc Vincent-Genod (https://github.com/VGLoic)",
-  "homepage": "https://github.com/VGLoic/metamask-react",
+  "author": "Ma-C-Kik (https://github.com/ma-c-kik)",
+  "homepage": "https://github.com/ma-c-kik/mac-metamask-react",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VGLoic/metamask-react.git"
+    "url": "git+https://github.com/ma-c-kik/mac-metamask-react.git"
   },
   "bugs": {
-    "url": "https://github.com/VGLoic/metamask-react/issues"
+    "url": "https://github.com/ma-c-kik/mac-metamask-react/issues"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
